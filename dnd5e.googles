@@ -1,0 +1,21 @@
+! name: D&D 5e 2014 Priority
+! description: Boosts Wikidot, D&D Beyond, Reloaded, and Fleshed Out.
+! public: true
+! author: D&D Player
+
+! Primary source preference (Highest Boost)
+$boost=10,site=dnd5e.wikidot.com
+$boost=10,site=strahdreloaded.com
+
+! MandyMod Fleshed Out preference
+/r/CurseofStrahd/$boost=9
+
+! Secondary source preference
+$boost=8,site=dndbeyond.com
+
+! Other general wikis boost
+$boost=5,site=forgottenrealms.fandom.com
+$boost=3,site=dandwiki.com
+
+! Downrank Roll20
+$downrank=8,site=roll20.net
